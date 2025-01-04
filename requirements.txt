@@ -52,7 +52,7 @@ jupyterlab-open-url-parameter
 nblink
 # Enable anywidgets
 anywidget
-jupyterlab-widgets==3.0.10
+jupyterlab-widgets>=3.0.10
 # Enable panel
 pyviz_comms
 
