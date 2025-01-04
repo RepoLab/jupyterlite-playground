@@ -13,6 +13,7 @@ jupyterlite-javascript-kernel==0.3.0
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
+jupyterlab-language-pack-de-DE
 
 # P5 kernel (optional)
 jupyterlite-p5-kernel==0.1.0
@@ -44,6 +45,17 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 
-# Custom
+## Custom
 # To open files per url param
 jupyterlab-open-url-parameter
+# Share notebooks via link
+nblink
+# Enable anywidgets
+anywidget
+jupyterlab-widgets==3.0.10
+# Enable panel
+pyviz_comms
+
+
+
+
