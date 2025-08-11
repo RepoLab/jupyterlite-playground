@@ -55,6 +55,7 @@ anywidget
 jupyterlab-widgets>=3.0.10
 # Enable panel
 pyviz_comms
+jupyter_bokeh
 
 
 
