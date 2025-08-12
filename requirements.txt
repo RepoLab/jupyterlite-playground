@@ -56,7 +56,8 @@ jupyterlab-widgets>=3.0.10
 # Enable panel
 pyviz_comms
 jupyter_bokeh
-
+# recent pydantic requirement, default is 4.11.0
+typing-extensions>=4.14.0
 
 
 
